@@ -1,6 +1,6 @@
 {
   "name": "httplink",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "./",
   "description": "`Link` HTTP Header constructor for your Restfull APIs",
   "homepage": "https://github.com/thanpolas/httplink",
