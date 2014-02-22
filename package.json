@@ -1,0 +1,33 @@
+{
+  "name": "httplink",
+  "version": "0.0.0",
+  "main": "./",
+  "description": "`Link` HTTP Header constructor for your Restfull APIs",
+  "homepage": "https://github.com/thanpolas/httplink",
+  "bugs": "https://github.com/thanpolas/httplink/issues",
+  "author": {
+    "name": "Thanasis Polychronakis",
+    "email": "thanpolas@gmail.com",
+    "url": "https://github.com/thanpolas"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thanpolas/httplink"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -b test/ -u tdd  -R spec"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "load-grunt-tasks": "~0.3.0",
+    "mocha": "~1.17.1",
+    "grunt": "~0.4.2",
+    "chai": "~1.9.0"
+  }
+}
