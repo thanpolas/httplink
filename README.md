@@ -44,7 +44,7 @@ Newline was added for presentation reasons, there is no newline in the actual st
 
 The methods have to be invoked in the order as demonstrated above. The value of the `rel()` method must be a key that can be found by the `data()` method.
 
-[Check out the tests]() for a more detailed demonstration of how this works.
+[Check out the tests](https://github.com/thanpolas/httplink/blob/master/test/httplink.test.js) for a more detailed demonstration of how this works.
 
 
 ## Release History
