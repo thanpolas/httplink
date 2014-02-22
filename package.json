@@ -22,12 +22,12 @@
   "scripts": {
     "test": "./node_modules/.bin/mocha -b test/ -u tdd  -R spec"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "load-grunt-tasks": "~0.3.0",
     "mocha": "~1.17.1",
     "grunt": "~0.4.2",
-    "chai": "~1.9.0"
+    "chai": "~1.9.0",
+    "grunt-release": "~0.7.0"
   }
 }
